@@ -1,0 +1,7 @@
+print()
+print("The creator of Python was Dutch Programmer Guido van Rossum")
+print()
+print("Python was invented in December of 1989 but released in February 1991")
+print()
+print("BDFL stands for Benevolent Dictator For Life")
+print()
